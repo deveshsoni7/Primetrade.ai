@@ -87,3 +87,9 @@ This project is a scalable REST API with Authentication & Role-Based Access, inc
     /pages - Views
     /services - API calls
 ```
+
+## Deployment
+
+- **Frontend**: Deployed on Vercel at `https://primetrade-ai-wheat.vercel.app`
+- **Backend**: Configure `CLIENT_URL` in `.env` to match your frontend deployment URL
+- **CORS**: Already configured to accept requests from the Vercel app and localhost
