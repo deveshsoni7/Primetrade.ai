@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-    baseURL: 'https://primetrade-ai-wheat.vercel.app/api',    
+    baseURL: 'https://primetradeai-production.up.railway.app/api',
 });
 
 // Add a request interceptor to attach the token

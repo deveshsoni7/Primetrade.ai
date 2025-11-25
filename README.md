@@ -41,8 +41,8 @@ This project is a scalable REST API with Authentication & Role-Based Access, inc
    ```bash
    npm run dev
    ```
-   Server runs on `https://primetrade-ai-wheat.vercel.app`.
-   API Docs available at `https://primetrade-ai-wheat.vercel.app/api-docs`.
+   Server runs on `https://primetradeai-production.up.railway.app`.
+   API Docs available at `https://primetradeai-production.up.railway.app/api-docs`.
 
 ### Frontend Setup
 1. Navigate to `client` directory:
@@ -90,6 +90,6 @@ This project is a scalable REST API with Authentication & Role-Based Access, inc
 
 ## Deployment
 
-- **Frontend**: Deployed on Vercel at `https://primetrade-ai-wheat.vercel.app`
+- **Frontend**: Deployed on Vercel at `https://primetradeai-production.up.railway.app`
 - **Backend**: Configure `CLIENT_URL` in `.env` to match your frontend deployment URL
 - **CORS**: Already configured to accept requests from the Vercel app and localhost

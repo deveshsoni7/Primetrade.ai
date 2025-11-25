@@ -2,7 +2,7 @@ const axios = require('axios');
 
 const testRegistration = async () => {
     try {
-        const response = await axios.post('https://primetrade-ai-wheat.vercel.app/api/auth/register', {
+        const response = await axios.post('https://primetradeai-production.up.railway.app/api/auth/register', {
             name: 'Test User',
             email: 'testuser' + Date.now() + '@example.com',
             password: 'password123'
