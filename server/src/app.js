@@ -35,7 +35,7 @@ const swaggerOptions = {
         },
         servers: [
             {
-                url: 'http://localhost:5000',
+                url: 'https://primetrade-ai-wheat.vercel.app',
             },
         ],
         components: {

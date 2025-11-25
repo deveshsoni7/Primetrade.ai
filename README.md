@@ -41,8 +41,8 @@ This project is a scalable REST API with Authentication & Role-Based Access, inc
    ```bash
    npm run dev
    ```
-   Server runs on `http://localhost:5000`.
-   API Docs available at `http://localhost:5000/api-docs`.
+   Server runs on `https://primetrade-ai-wheat.vercel.app`.
+   API Docs available at `https://primetrade-ai-wheat.vercel.app/api-docs`.
 
 ### Frontend Setup
 1. Navigate to `client` directory:
